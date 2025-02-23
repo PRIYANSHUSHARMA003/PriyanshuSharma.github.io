@@ -1,5 +1,5 @@
-# PriyanshuSharma.github.io
-Personal portfolio
+# Portfolio
+Priyanshu Sharma
 
 ###Education 
 B.E cse aiml
